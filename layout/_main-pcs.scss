@@ -1,0 +1,36 @@
+/**Pcs**/
+
+.container {
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.container h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.container p {
+    text-align: justify-all;
+    margin-top: 10px;
+    font-size: 16px;
+    margin: 20px;
+    color: #fff;
+}
+
+#img1,
+#img2,
+#img3 {
+    border-radius: 25%;
+    width: 400px;
+    height: 350px;
+}

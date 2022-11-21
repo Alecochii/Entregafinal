@@ -1,0 +1,32 @@
+#img4,
+#img5,
+#img6,
+#img7 {
+    border-radius: 25%;
+    width: 400px;
+    height: 350px;
+}
+
+
+
+
+
+.grid-item:hover {
+    filter: opacity(0.9);
+    transform: solid 1px rgb (255, 255, 255);
+}
+
+
+
+
+.monitoresProd {
+    font-size: x-large;
+    font-weight: 1000;
+}
+
+
+
+.imagenesMonitor {
+    width: 400px;
+    height: 400px;
+}
